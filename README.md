@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jennyfer0810
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 oi, sou Jennyfer
+- 👀 eu estou enterrada em computação
+- 🌱 estou atualmente aprendendo a fazer um portifólio
+-
+-
 
 <!---
 jennyfer0810/jennyfer0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
